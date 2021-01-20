@@ -8,5 +8,4 @@ Dev logs: https://www.youtube.com/watch?v=Zvt4slqDH24&list=PLkP13J1tCGgVxMRBTP6b
 ![Zrzut ekranu 2021-01-20 081205](https://user-images.githubusercontent.com/39192319/105140058-761d8480-5af7-11eb-9d3b-878ed19153f0.png)
 ![Zrzut ekranu 2021-01-20 081314](https://user-images.githubusercontent.com/39192319/105140063-77e74800-5af7-11eb-8857-001890dac49b.png)
 ![Zrzut ekranu 2021-01-20 080909](https://user-images.githubusercontent.com/39192319/105140055-7584ee00-5af7-11eb-859a-4c44e6a41f6f.png)
-![Zrzut ekranu 2021-01-20 082416](https://user-images.githubusercontent.com/39192319/105141090-e7116c00-5af8-11eb-8349-cc6366d7282f.png)
 ![Zrzut ekranu 2021-01-20 082607](https://user-images.githubusercontent.com/39192319/105141304-3e174100-5af9-11eb-9fa7-f4571955fdf7.png)
